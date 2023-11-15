@@ -1,0 +1,6 @@
+{
+    "users": [
+      { "id": 1, "email": "test@mail.ru", "password": "test123", "authenticated": false },
+      { "id": 2, "email": "test@example2.com", "password": "test1234", "authenticated": false }
+    ]
+  }
